@@ -1,0 +1,9 @@
+.tshirt-area{
+    border: 1px solid lightblue;
+    border-radius: 10px;
+    padding-bottom: 30px;
+}
+.tshirt-img img{
+    height: 350px;
+    margin: 25px 0px;
+}
